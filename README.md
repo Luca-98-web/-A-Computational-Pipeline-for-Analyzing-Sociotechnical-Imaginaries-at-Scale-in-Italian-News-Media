@@ -9,6 +9,8 @@ BERTopic (https://maartengr.github.io/BERTopic/index.html) was employed for topi
 References
 
 Brause, S.R., Schäfer, M.S., Katzenbach, C., Mao, Y., Richter, V. and Zeng, J. (2025). Sociotechnical imaginaries and public communication: Analytical framework and empirical illustration using the case of artificial intelligence. Convergence The International Journal of Research into New Media Technologies. doi:https://doi.org/10.1177/13548565251338192.
+
 Gillespie, A., Glăveanu, V., de Saint-Laurent, C., Zittoun, T. and Bernal Marcos, M.J. (2024). Multi-Resolution Design: Using Qualitative and Quantitative Analyses to Recursively Zoom in and out of the Same Dataset. Journal of Mixed Methods Research. doi:https://doi.org/10.1177/15586898241284696.
+
 Laurer, M., Atteveldt, van, Casas, A. and Welbers, K. (2023). Building Efficient Universal Classifiers with Natural Language Inference. arXiv (Cornell University). doi:https://doi.org/10.48550/arxiv.2312.17543.
 
