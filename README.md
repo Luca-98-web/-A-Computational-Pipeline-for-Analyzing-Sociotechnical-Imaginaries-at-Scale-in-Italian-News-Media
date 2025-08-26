@@ -1,0 +1,6 @@
+This repository presents a computational pipeline for large-scale analysis of AI sociotechnical imaginaries in news media, developed as part of my Master's thesis. The pipeline is based on the SIPCs framework developed in the paper "Sociotechnical imaginaries and public communication: Analytical framework and empirical illustration using the case of artificial intelligence" (Brause et al., 2025). The pipeline is grounded in the principle of multi-resolution design, allowing for both a "zoom out" perspective for large-scale analysis and a "zoom in" approach for nuanced examination of imaginaries (Gillespie, 2024). Given the increasing production of articles, especially in web-based news media, and AI's central role in public debate, the use of computational methods enables researchers to conduct large-scale systematic analyses.
+Technology use in this project
+1. Natural Language Inference
+Zero-shot classifiers developed by Laurer et al. (2023), available on Laurer's Hugging Face Hub. Specifically, the multilingual model MoritzLaurer/bge-m3-zeroshot-v2.0 was used for article classification across SIPC framework dimensions.
+2. Topic Modeling
+BERTopic was employed for topic modeling and semantic clustering. The Qwen/Qwen3-Embedding-0.6B model was used as the embedding model due to its larger token window, enabling better processing of longer news articles.
